@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+//disable page scroll
+body {
+  overscroll-behavior: none;
+}
